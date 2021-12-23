@@ -1,6 +1,6 @@
 ## About
 
-Remove ugly teachers is a small browser extension, which only purpose is to remove the teacher caricatures drawings on minuddannelse.
+Remove ugly teachers is a small browser extension, which only purpose is to remove the teacher caricatures drawings on minuddannelse.net
 
 ## Getting Started
 

@@ -10,7 +10,8 @@
             'forside.svg',
             'forside_laerere_jul.svg',
             'forside_laerere.svg',
-            'forside-jul.svg'
+            'forside-jul.svg',
+            'laerer'
         ],
         elementsWithBackgroundImages: [
             '.my-week-background-wrapper'

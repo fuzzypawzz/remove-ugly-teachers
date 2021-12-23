@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Remove ugly teachers",
+    "version": "1.0",
+    "description": "A browser plugin to remove the teacher caricatures on MinUddannelse",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.minuddannelse.net/*"
+            ],
+            "js": [
+                "index.js"
+            ]
+        }
+    ]
+}

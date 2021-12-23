@@ -28,7 +28,7 @@
         targets.selectors.forEach(selector => {
             const matchingNodes = document.querySelectorAll(selector)
             matchingNodes.forEach(n => n.remove())
-        })ß
+        })
 
         targets.elementsWithBackgroundImages.forEach(selector => {
             const matchingNodes = document.querySelectorAll(selector)

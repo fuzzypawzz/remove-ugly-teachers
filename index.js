@@ -9,7 +9,11 @@
         imageSources: [
             'forside.svg',
             'forside_laerere_jul.svg',
-            'forside_laerere.svg'
+            'forside_laerere.svg',
+            'forside-jul.svg'
+        ],
+        elementsWithBackgroundImages: [
+            '.erLaerer'
         ]
     }
 
@@ -24,6 +28,13 @@
         targets.selectors.forEach(selector => {
             const matchingNodes = document.querySelectorAll(selector)
             matchingNodes.forEach(n => n.remove())
+        })ß
+
+        targets.elementsWithBackgroundImages.forEach(selector => {
+            const matchingNodes = document.querySelectorAll(selector)
+            matchingNodes.forEach(n => {
+                n.style.backgroundImage = ''
+            })
         })
 
     } catch (e) {

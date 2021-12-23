@@ -19,6 +19,9 @@
         }
 
         try {
+            /**
+             * Removes teacher image elements
+             */
             const images = document.querySelectorAll('img')
             images.forEach(img => {
                 targets.imageSources.forEach(src => {
@@ -26,11 +29,17 @@
                 })
             })
 
+            /**
+             * Removes elements with specific classNames and ids
+             */
             targets.selectors.forEach(selector => {
                 const matchingNodes = document.querySelectorAll(selector)
                 matchingNodes.forEach(n => n.remove())
             })
 
+            /**
+             * Removes backgroundImages
+             */
             targets.elementsWithBackgroundImages.forEach(selector => {
                 const matchingNodes = document.querySelectorAll(selector)
                 matchingNodes.forEach(n => {
@@ -46,8 +55,10 @@
 
     removeTeachers()
 
-    // Fallback for slow loading content some places
-    const intervals = [200, 700, 1200]
+    /**
+     * Fallback for slow loading content some places
+     */
+    const intervals = [200, 500, 1300]
     intervals.forEach(interval => {
         setTimeout(() => {
             removeTeachers()

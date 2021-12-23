@@ -33,7 +33,7 @@
         targets.elementsWithBackgroundImages.forEach(selector => {
             const matchingNodes = document.querySelectorAll(selector)
             matchingNodes.forEach(n => {
-                n.style.backgroundImage = ''
+                n.style.backgroundImage = 'url()'
             })
         })
 

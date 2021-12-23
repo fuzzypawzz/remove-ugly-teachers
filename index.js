@@ -13,7 +13,7 @@
             'forside-jul.svg'
         ],
         elementsWithBackgroundImages: [
-            '.erLaerer'
+            '.my-week-background-wrapper'
         ]
     }
 

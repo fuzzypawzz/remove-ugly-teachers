@@ -14,19 +14,13 @@ Until then, you can use the extension by downloading the code from here.
 1. Download the web extension from Chrome web store. Search for 'Remove ugly teachers'.
 2. To download the extension for Edge, you'll need to enable "installing extensions from other web stores". The Edge browser should prompt for this when you navigate to the extension in the Chrome web store.
 
+## How to install the extension in Opera:
+
+1. Opera support Chrome extensions, so download the web extension from Chrome web store. Search for 'Remove ugly teachers'.
+
 ## How to install the extension in Firefox:
 
 Not yet supported.
-
-## How to install the extension in Opera:
-
-1. Click on download to download the zip file.
-2. Unzip the file after download.
-3. Open Opera and type this in the search bar: opera://extensions/
-4. In the top right corner enable "Developer mode/Udviklertilstand".
-5. In the top left corner, select "Load unpacked".
-6. Select the unzipped folder you downloaded before.
-
 ## Usage
 
 The extension works after it's installed. You don't need to do anything else.

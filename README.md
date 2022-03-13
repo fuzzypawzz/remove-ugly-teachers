@@ -4,24 +4,18 @@ Remove ugly teachers is a small browser extension, which only purpose is to remo
 
 ## Getting Started
 
-The extensions will soon be available in the Chrome, Firefox and Opera web stores.
+The extension is available on the Chrome web store. It's not yet published on the Firefox and Opera web store.
 Until then, you can use the extension by downloading the code from here.
 
 ### Installation
 
 ## How to install the extension in Chrome:
 
-1. Click on download to download the zip file.
-2. Unzip the file after download.
-3. Open Chrome and type this in the search bar: chrome://extensions/
-4. In the top right corner enable "Developer mode/Udviklertilstand".
-5. In the top left corner, select "Load unpacked".
-6. Select the unzipped folder you downloaded before.
+1. Download the web extension from Chrome web store. Search for 'Remove ugly teachers'.
 
 ## How to install the extension in Firefox:
 
-You can only install the extension temporarily in Firefox.
-It will disappear after Firefox is restarted. Therefore, please refer to the Firefox web store to download the extension.
+Not yet supported.
 
 ## How to install the extension in Opera:
 

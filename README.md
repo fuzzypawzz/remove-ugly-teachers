@@ -9,9 +9,10 @@ Until then, you can use the extension by downloading the code from here.
 
 ### Installation
 
-## How to install the extension in Chrome:
+## How to install the extension in Chrome & Microsoft Edge:
 
 1. Download the web extension from Chrome web store. Search for 'Remove ugly teachers'.
+2. To download the extension for Edge, you'll need to enable "installing extensions from other web stores". The Edge browser should prompt for this when you navigate to the extension in the Chrome web store.
 
 ## How to install the extension in Firefox:
 

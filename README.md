@@ -21,6 +21,7 @@ Until then, you can use the extension by downloading the code from here.
 ## How to install the extension in Firefox:
 
 Not yet supported.
+
 ## Usage
 
 The extension works after it's installed. You don't need to do anything else.
